@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SudokuTrainer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- activity_main -->
+    <string name="main_btn_level1">数数训练</string>
+    <string name="main_btn_level2">唯余训练</string>
+    <string name="main_btn_level3">数对训练</string>
+    <string name="main_btn_quit">退出</string>
+    <string name="main_btn_about">关于</string>
+
+    <!-- activity_play -->
+    <string name="play_btn_quit">返回</string>
+    <string name="play_btn_next">下一组</string>
+    <string name="play_btn_reset">复位</string>
+    <string name="play_btn_put01">1</string>
+    <string name="play_btn_put02">2</string>
+    <string name="play_btn_put03">3</string>
+    <string name="play_btn_put04">4</string>
+    <string name="play_btn_put05">5</string>
+    <string name="play_btn_put06">6</string>
+    <string name="play_btn_put07">7</string>
+    <string name="play_btn_put08">8</string>
+    <string name="play_btn_put09">9</string>
+    <string name="play_tv_sample">small text</string>
+    <string name="play_rb_box">宫模式</string>
+    <string name="play_rb_row">行模式</string>
+    <string name="play_rb_column">列模式</string>
+    <string name="play_rb_random">随机</string>
+
+    <!-- activity_about -->
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_btn_close">关闭</string>
+    
+    <!-- activity_naked -->
+    <string name="title_activity_naked">NakedActivity</string>
+	<string name="naked_btn_put01">1</string>
+    <string name="naked_btn_put02">2</string>
+    <string name="naked_btn_put03">3</string>
+    <string name="naked_btn_put04">4</string>
+    <string name="naked_btn_put05">5</string>
+    <string name="naked_btn_put06">6</string>
+    <string name="naked_btn_put07">7</string>
+    <string name="naked_btn_put08">8</string>
+    <string name="naked_btn_put09">9</string>
+	<string name="naked_btn_next">下一组</string>
+    <string name="naked_btn_reset">复位</string>
+    
+    <string name="naked_rb_1in17">无宫</string>
+    <string name="naked_rb_1in25">有宫</string>
+    <string name="naked_rb_random">随机</string>
+    
+</resources>
